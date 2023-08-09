@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an experienced front-end developer currently transitioning into a full-stack developer role. With expertise in frontend technologies and frameworks like HTML, CSS, JavaScript, React I am learning and expanding my skills in backend development, server-side programming, and databases. I am committed to delivering high-quality solutions, adapting to new technologies, and contributing effectively as a well-rounded developer.
 
-<!--
+
 
 Here are some things to know about me:
 
@@ -11,4 +11,4 @@ Here are some things to know about me:
 - 💬 Ask me about Web development or Technical Issues...
 - 📫 How to reach me: Reach me at princedavisy111@gmail.com...
 - ⚡ Fun fact: I love playing Video Games and Reading Books...
--->
+
