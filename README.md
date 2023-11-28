@@ -1,3 +1,5 @@
+![GitHub img](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966) 
+
 ### Hi there 👋
 I am front-end developer currently transitioning into a full-stack developer role. With expertise in frontend technologies and frameworks like HTML, CSS, JavaScript, React I am learning and expanding my skills in Frontend and backend development, server-side programming, and databases. I am committed to delivering high-quality solutions, adapting to new technologies, and contributing effectively as a well-rounded developer.
 Here are some things to know about me:
@@ -9,5 +11,5 @@ Here are some things to know about me:
 - ⚡ Fun fact: I love playing Video Games and Reading Books...
 
 ![GitHub img](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966) 
-(https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
+
 [![An image of @officialp123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/officialp123)](https://holopin.io/@officialp123)
